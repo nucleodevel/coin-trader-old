@@ -1,0 +1,16 @@
+-dt 20
+-bm NONE
+-sm NONE
+-coin BTC
+-curr BRL
+-mbr 0.01
+-msr 0.008
+-bbr ----
+-bsr ----
+-mbi ----
+-msi ----
+-ica 0.00001
+-uk key
+-us secret
+-up MERCADO_BITCOIN
+-ub MERCADO_BITCOIN
